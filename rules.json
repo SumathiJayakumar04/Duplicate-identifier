@@ -1,0 +1,7 @@
+{
+  "Media": ["mp3", "mp4", "jpg", "png"],
+  "Documents": ["pdf", "docx", "txt"],
+  "Executables": ["exe", "sh", "bat", "py"],
+  "Archives": ["zip", "rar", "tar", "gz"]
+}
+
